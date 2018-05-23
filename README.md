@@ -1,1 +1,1 @@
-# cubexwebsite
+# CubeX Website
